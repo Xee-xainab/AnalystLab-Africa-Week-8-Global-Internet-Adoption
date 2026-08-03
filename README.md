@@ -177,9 +177,6 @@ Based on the analysis, the following recommendations are proposed:
 ```
 Global-Internet-Adoption-WDI/
 │
-├── Data/
-│   └── WDI Dataset
-│
 ├── Dashboard/
 │   └── Global Internet Adoption Dashboard.pbix
 │
